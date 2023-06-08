@@ -1,0 +1,455 @@
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.exe
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.deps.json
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.runtimeconfig.json
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.runtimeconfig.dev.json
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.pdb
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.Views.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.Views.pdb
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.csprojAssemblyReference.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net Final Project.StaticWebAssets.Manifest.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net Final Project.StaticWebAssets.xml
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorAssemblyInfo.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorAssemblyInfo.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.AssemblyInfoInputs.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.AssemblyInfo.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.TagHelpers.input.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.TagHelpers.output.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorCoreGenerate.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorTargetAssemblyInfo.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorTargetAssemblyInfo.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.Views.pdb
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.pdb
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.csproj.CopyComplete
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\UserCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Login.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\ManagerUser.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\BlockedUser.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AboutMe\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AboutMe\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Create.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Delete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Create.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Delete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Details.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Create.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Delete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Details.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Create.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Delete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LDetails.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RDetails.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LDelete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RDelete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\PCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\CCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\PUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\CUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\PDelete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\CDelete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\SectionNameUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\LUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\RUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\LDetails.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\RDetails.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\BCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\BUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\BDelete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\SCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\SUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\SDelete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\SingleBlog\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Delete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Index.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Details.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Update.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Create.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Delete.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\CUpdate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\CCreate.cshtml.g.cs
+D:\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\CDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.StaticWebAssets.xml
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.exe
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.deps.json
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.runtimeconfig.json
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.runtimeconfig.dev.json
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.pdb
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.Views.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Asp.Net Final Project.Views.pdb
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.csproj.AssemblyReference.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.AssemblyInfoInputs.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.AssemblyInfo.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.csproj.CoreCompileInputs.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorAssemblyInfo.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorAssemblyInfo.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net Final Project.StaticWebAssets.Manifest.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net Final Project.StaticWebAssets.Pack.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Asp.Net Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Asp.Net Final Project.props
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Asp.Net Final Project.props
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Asp.Net Final Project.props
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.TagHelpers.input.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.TagHelpers.output.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorCoreGenerate.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AboutMe\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AboutMe\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Delete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Create.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Delete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\IconInfo\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Create.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Delete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\InterestsItem\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\CCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\CDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Create.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\CUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Delete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Details.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Portfolio\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Price\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LDetails.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\LUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RDetails.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\RUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Resume\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\BCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\BDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\BUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\SCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\SDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\SUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SectionHome\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Create.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Delete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Details.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItem\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\CCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\CDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\CUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\PCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\PDelete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\PUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Skills\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Create.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Delete.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Details.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Testimonials\Update.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\BlockedUser.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Login.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\ManagerUser.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\UserCreate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\LDetails.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\LUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\RDetails.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\RUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WorkingProcess\SectionNameUpdate.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\SingleBlog\Index.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorTargetAssemblyInfo.cache
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.RazorTargetAssemblyInfo.cs
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.Views.pdb
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.csproj.CopyComplete
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.dll
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.pdb
+D:\My Lessons\HomeWork\P213\Asp.Net Final Project\Asp.Net Final Project\Asp.Net Final Project\obj\Debug\netcoreapp3.1\Asp.Net Final Project.genruntimeconfig.cache

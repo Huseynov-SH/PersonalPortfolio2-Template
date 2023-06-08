@@ -1,0 +1,41 @@
+﻿@model MainPageVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block">
+        <div class="title text-center">
+            <strong class="d-block">Section Name</strong> <span class="d-block">@Model.SectionPrice.SectionName</span>
+            <a asp-area="Admin" asp-controller="Price" asp-action="SectionNameUpdate" asp-route-id="@Model.SectionPrice.Id" class="btn btn-primary btn-block text-white mt-3 btn-sm"><i class="fas fa-pencil-alt"></i> </a>
+            <hr />
+            <strong class="d-block">Price Box</strong>
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Icon</th>
+                        <th>Type</th>
+                        <th>Price</th>
+                        <th>Details</th>
+                        <th>Edit</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                    @foreach (var item in Model.PriceBox)
+                    {
+                        <tr>
+                            <td><i class="@item.PriceBoxIcon"></i></td>
+                            <td>@item.PriceBoxType</td>
+                            <td>@item.Price</td>
+                            <td><a asp-area="Admin" asp-controller="Price" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm disabled"><i class="fas fa-info-circle"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="Price" asp-action="Update" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <hr />
+    </div>
+</div>

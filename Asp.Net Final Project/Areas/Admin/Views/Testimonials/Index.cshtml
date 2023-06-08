@@ -1,0 +1,44 @@
+﻿@model MainPageVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block">
+        <div class="title text-center">
+            <strong class="d-block">Section Name</strong> <span class="d-block">@Model.SectionTestimonial.SectionName</span>
+            <a asp-area="Admin" asp-controller="Testimonials" asp-action="SectionNameUpdate" asp-route-id="@Model.SectionTestimonial.Id" class="btn btn-primary btn-block text-white mt-3 btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+            <hr />
+            <strong class="d-block">Testimonials Items</strong>
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Image</th>
+                        <th>FullName</th>
+                        <th>Rating</th>
+                        <th>Details</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                    @foreach (var item in Model.TestimonailItem)
+                    {
+                        <tr>
+                            <td><img src="~/img/testimonials/@item.Image" style="width:50px;height:50px" /></td>
+                            <td>@item.FullName</td>
+                            <td>@item.Rating</td>
+                            <td><a asp-area="Admin" asp-controller="Testimonials" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-info-circle"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="Testimonials" asp-action="Update" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="Testimonials" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-block text-white btn-sm"><i class="fas fa-trash-alt"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <hr />
+        <a asp-area="Admin" asp-controller="Testimonials" asp-action="Create" class="btn btn-success btn-block text-white">Create</a>
+    </div>
+</div>

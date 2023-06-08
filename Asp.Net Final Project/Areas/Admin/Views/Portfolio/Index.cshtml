@@ -1,0 +1,70 @@
+﻿@model MainPageVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block">
+        <div class="title text-center">
+            <strong class="d-block">Category Item</strong>
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Category Name</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                    @foreach (var item in Model.PortfolioCategory)
+                    {
+                        <tr>
+                            <td style="text-transform:capitalize">@item.CategoryName</td>
+                            <td><a asp-area="Admin" asp-controller="Portfolio" asp-action="CUpdate" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="Portfolio" asp-action="CDelete" asp-route-id="@item.Id" class="btn btn-danger btn-block text-white btn-sm"><i class="fas fa-trash-alt"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <hr />
+        <a asp-area="Admin" asp-controller="Portfolio" asp-action="CCreate" class="btn btn-success btn-block text-white">Create</a>
+        <hr />
+        <div class="title text-center mt-4">
+            <strong class="d-block">Portfolio Item</strong>
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Image</th>
+                        <th>Project Name</th>
+                        @*<th>Category Name</th>*@
+                        <th>Tag</th>
+                        <th>Details</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                    @foreach (var item in Model.PortfolioItem)
+                    {
+                        <tr>
+                            <td><img src="~/img/portfolio/@item.Image" style="width:50px;height:50px" /></td>
+                            <td>@item.ProjectName</td>
+                            @*<td>@item.PortfolioCategory.CategoryName</td>*@
+                            <td>@item.Tag</td>
+                            <td><a asp-area="Admin" asp-controller="Portfolio" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-info-circle"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="Portfolio" asp-action="Update" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="Portfolio" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-block text-white btn-sm"><i class="fas fa-trash-alt"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <hr />
+        <a asp-area="Admin" asp-controller="Portfolio" asp-action="Create" class="btn btn-success btn-block text-white">Create</a>
+    </div>
+</div>

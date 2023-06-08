@@ -1,0 +1,38 @@
+﻿@model Asp.Net_Final_Project.Models.IconInfoAboutMe
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="col-lg-8 offset-2">
+    <div class="block p-5 text-center">
+        <div class="alert alert-danger" role="alert">
+            Are you sure?
+        </div>
+        <hr />  
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Icon</th>
+                        <th>Title</th>
+                        <th>Sub Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><i class="@Model.IconInfo"></i></td>
+                        <td>@Model.TitInfo</td>
+                        <td>@Model.SubTitInfo</td>
+                    </tr>
+                </tbody>
+            </table>
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group mt-5">
+                    <hr />
+                    <input type="submit" value="Delete" class="btn btn-danger btn-block">
+                    <a asp-area="Admin" asp-controller="IconInfo" asp-action="Index" class="text-white btn btn-success btn-block">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

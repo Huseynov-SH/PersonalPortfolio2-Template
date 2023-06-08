@@ -1,0 +1,36 @@
+﻿@model Asp.Net_Final_Project.Models.SkillsProgressBar
+@{
+    ViewData["Title"] = "PDelete";
+}
+
+<div class="col-lg-8 offset-2">
+    <div class="block p-5 text-center">
+        <div class="alert alert-danger" role="alert">
+            Are you sure?
+        </div>
+        <hr />
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.ProgressTitle</td>
+                        <td>@Model.ProgressValue</td>
+                    </tr>
+                </tbody>
+            </table>
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group mt-5">
+                    <hr />
+                    <input type="submit" value="Delete" class="btn btn-danger btn-block">
+                    <a asp-area="Admin" asp-controller="Skills" asp-action="Index" class="text-white btn btn-success btn-block">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

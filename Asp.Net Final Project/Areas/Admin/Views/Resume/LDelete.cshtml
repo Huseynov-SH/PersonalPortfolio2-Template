@@ -1,0 +1,43 @@
+﻿@model Asp.Net_Final_Project.Models.ResumeExperienceItem
+@{
+    ViewData["Title"] = "LDelete";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block p-5 text-center">
+        <div class="alert alert-danger" role="alert">
+            Are you sure?
+        </div>
+        <hr />
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Calendar</th>
+                        <th>Section</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Title</td>
+                        <td>@Model.Calendar</td>
+                        <td>@Model.Sec</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="col-8 offset-2">
+                <h4 class="mt-5">Description</h4>
+                <hr />
+                <h5>@Model.Description</h5>
+            </div>
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group mt-5">
+                    <hr />
+                    <input type="submit" value="Delete" class="btn btn-danger btn-block">
+                    <a asp-area="Admin" asp-controller="Resume" asp-action="Index" class="text-white btn btn-success btn-block">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+﻿@model Asp.Net_Final_Project.Models.PortfolioItem
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block">
+        <div class="block-body">
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Photo" class="form-control-label"></label>
+                    <input asp-for="Photo" accept="image/*" class="form-control">
+                    <span asp-validation-for="Photo" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PortfolioCategoryId" class="form-control-label"></label>
+                    <select asp-for="PortfolioCategoryId" class="form-control" style="text-transform:capitalize">
+                        @foreach (var item in @ViewBag.Category)
+                        {
+                            <option value="@item.Id" style="text-transform:capitalize">@item.CategoryName</option>
+                        }
+                    </select>
+                    <span asp-validation-for="PortfolioCategoryId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectName" class="form-control-label"></label>
+                    <input asp-for="ProjectName" class="form-control">
+                    <span asp-validation-for="ProjectName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Tag" class="form-control-label"></label>
+                    <input asp-for="Tag" class="form-control">
+                    <span asp-validation-for="Tag" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProjectVideoLink" class="form-control-label"></label>
+                    <input asp-for="ProjectVideoLink" class="form-control">
+                    <span asp-validation-for="ProjectVideoLink" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <hr />
+                    <input type="submit" value="Save Changes" class="btn btn-info btn-block">
+                    <a asp-area="Admin" asp-controller="Portfolio" asp-action="Index" class="text-white btn btn-success btn-block">Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}
+

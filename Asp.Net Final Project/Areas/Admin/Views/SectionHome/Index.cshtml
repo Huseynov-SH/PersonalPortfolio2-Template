@@ -1,0 +1,91 @@
+﻿@model MainPageVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block">
+        <div class="title text-center">
+            <strong class="d-block">Section Home</strong>
+            <hr />
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Backgroud Image</th>
+                        <th>FullName</th>
+                        <th>Edit</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                    <tr>
+                        <td><img src="~/img/main/@Model.SectionHome.Image" alt="Alternate Text" width="120" height="60" /></td>
+                        <td>@Model.SectionHome.FullName</td>
+                        <td><a asp-area="Admin" asp-controller="SectionHome" asp-action="Update" asp-route-id="@Model.SectionHome.Id" class="btn btn-primary btn-block text-white"><i class="fas fa-pencil-alt"></i> </a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="title text-center">
+            <strong class="d-block">Banner Item</strong>
+            <hr />
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Banner Name</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+
+                    @foreach (var item in Model.Banner)
+                    {
+                        <tr>
+                            <td>@item.BannerName</td>
+                            <td><a asp-area="Admin" asp-controller="SectionHome" asp-action="BUpdate" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="SectionHome" asp-action="BDelete" asp-route-id="@item.Id" class="btn btn-danger btn-block text-white btn-sm"><i class="fas fa-trash-alt"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <hr />
+            <a asp-area="Admin" asp-controller="SectionHome" asp-action="BCreate" class="btn btn-success btn-block text-white">Create</a>
+        </div>
+
+        <div class="title text-center">
+            <strong class="d-block">Social Item</strong>
+            <hr />
+        </div>
+        <div class="table-responsive my-5">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="text-center">
+                        <th>Icon</th>
+                        <th>Link</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+
+                    @foreach (var item in Model.Social)
+                    {
+                        <tr>
+                            <td><i class="@item.Icon"></i></td>
+                            <td>@item.IconLink</td>
+                            <td><a asp-area="Admin" asp-controller="SectionHome" asp-action="SUpdate" asp-route-id="@item.Id" class="btn btn-primary btn-block text-white btn-sm"><i class="fas fa-pencil-alt"></i> </a></td>
+                            <td><a asp-area="Admin" asp-controller="SectionHome" asp-action="SDelete" asp-route-id="@item.Id" class="btn btn-danger btn-block text-white btn-sm"><i class="fas fa-trash-alt"></i> </a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <hr />
+            <a asp-area="Admin" asp-controller="SectionHome" asp-action="SCreate" class="btn btn-success btn-block text-white">Create</a>
+        </div>
+    </div>
+</div>

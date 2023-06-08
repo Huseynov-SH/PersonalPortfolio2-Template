@@ -1,0 +1,34 @@
+﻿@model IEnumerable<SectionAboutMe>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="col-lg-10 offset-1">
+    <div class="block">
+        @foreach (var item in Model)
+        {
+            <div class="row">
+                <div class="col-12">
+                    <h4 class="mt-5 text-center">Section Name: @item.SectionName</h4>
+                    <hr />
+                </div>
+                <div class="col-6">
+                    <img src="~/img/main/@item.Image" width="180" height="180" />
+                </div>
+                <div class="col-6">
+                    <h4>FullName: @item.FullName</h4>
+                    <hr />
+                    <h4>Location: @item.Location</h4>
+                    <hr />
+                </div>
+                <div class="col-12">
+                    <h4 class="mt-5 text-center">Description</h4>
+                    <hr />
+                    <h4>@item.Description</h4>
+                    <hr />
+                    <a asp-area="Admin" asp-controller="AboutMe" asp-action="Update" asp-route-id="@item.Id" class="text-white btn btn-secondary btn-block">Edit</a>
+                </div>
+            </div>
+        }
+    </div>
+</div>

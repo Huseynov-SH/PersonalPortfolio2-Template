@@ -1,0 +1,40 @@
+﻿@model Asp.Net_Final_Project.Models.PortfolioItem
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="col-lg-8 offset-2">
+    <div class="block">
+        <div class="row text-center">
+            <div class="col-12">
+                <div class="alert alert-danger" role="alert">
+                    Are you sure?
+                </div>
+                <hr />
+            </div>
+            <div class="col-5">
+                <img src="~/img/portfolio/@Model.Image" width="90" height="90" />
+            </div>
+            <div class="col-7 text-left">
+                <h4>Project Name: @Model.ProjectName</h4>
+                <hr />
+                <h4>Tag: @Model.Tag</h4>
+                <hr />
+            </div>
+            <div class="col-12">
+                <h4 class="mt-5 text-center">Description</h4>
+                <hr />
+                <h4>@Model.ProjectVideoLink</h4>
+                <hr />
+            </div>
+        </div>
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group mt-5">
+                <hr />
+                <input type="submit" value="Delete" class="btn btn-danger btn-block">
+                <a asp-area="Admin" asp-controller="Portfolio" asp-action="Index" class="text-white btn btn-success btn-block">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+

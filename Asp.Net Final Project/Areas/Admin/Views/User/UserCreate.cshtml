@@ -1,0 +1,53 @@
+﻿@model Asp.Net_Final_Project.ViewModels.UserCreateVM
+@{
+    ViewData["Title"] = "UserCreate";
+}
+
+
+<div class="col-lg-6 offset-3 mt-5">
+    <div class="block">
+        <div class="title"><strong class="d-block">Create Manager</strong><span class="d-block">Lorem ipsum dolor sit amet consectetur.</span></div>
+        <div class="block-body">
+            <form method="post">
+                <div class="form-group">
+                    <label asp-for="Name" class="form-control-label"></label>
+                    <input asp-for="Name" class="form-control">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Surname" class="form-control-label"></label>
+                    <input asp-for="Surname" class="form-control">
+                    <span asp-validation-for="Surname" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Username" class="form-control-label"></label>
+                    <input asp-for="Username" class="form-control">
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="form-control-label"></label>
+                    <input asp-for="Email" class="form-control">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="form-control-label"></label>
+                    <input asp-for="Password" class="form-control">
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ConfirmPassword" class="form-control-label"></label>
+                    <input asp-for="ConfirmPassword" class="form-control">
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

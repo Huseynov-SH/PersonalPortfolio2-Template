@@ -1,0 +1,586 @@
+﻿@model MainPageVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Home Section -->
+<div class="pt-home" style="background-image: url('img/main/@Model.SectionHome.Image')">
+
+    <!-- Particles -->
+    <div id="particles-js"></div>
+
+    <section>
+        <!-- Banner -->
+        <div class="banner">
+            <h1>@Model.SectionHome.FullName</h1>
+            <p class="cd-headline rotate-1">
+                <span>I am a</span>
+                <span class="cd-words-wrapper">
+                    <b class="is-visible">Developer</b>
+                    @foreach (var item in Model.Banner)
+                    {
+                        <b>@item.BannerName</b>
+                    }
+                    @*<b class="is-visible">Developer</b>
+                        <b>Photographer</b>
+                        <b>Designer</b>
+                        <b>Freelancer</b>*@
+                </span>
+            </p>
+        </div>
+
+        <!-- Language -->
+        <div class="lang">
+            <ul>
+                <li><a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" class="active">eng</a></li>
+                <li><a href="/Admin/Dashboard/Index/">rus</a></li>
+            </ul>
+        </div>
+
+        <!-- Social -->
+        <div class="social">
+            <ul>
+                @foreach (var item in Model.Social)
+                {
+                    <li><a href="@item.IconLink"><i class="@item.Icon"></i></a></li>
+                }
+            </ul>
+        </div>
+    </section>
+</div>
+
+<!-- About Section -->
+<div class="page pt-about" data-simplebar>
+    <section class="container">
+
+        <!-- Section Title -->
+        <div class="header-page mt-70 mob-mt">
+            <h2>@Model.SectionAboutMe.SectionName</h2>
+            <span></span>
+        </div>
+
+        <!-- Personal Info Start -->
+        <div class="row mt-100">
+
+            <!-- Information Block -->
+            <div class="col-lg-12 col-sm-12">
+                <div class="info box-1">
+                    <div class="row">
+                        <div class="col-lg-3 col-sm-4">
+                            <div class="photo">
+                                <img alt="" src="img/main/@Model.SectionAboutMe.Image">
+                            </div>
+                        </div>
+                        <div class="col-lg-9 col-sm-8">
+                            <h4>@Model.SectionAboutMe.FullName</h4>
+                            <div class="loc">
+                                <i class="fas fa-map-marked-alt"></i> @Model.SectionAboutMe.Location
+                            </div>
+                            <p>
+                                @Model.SectionAboutMe.Description
+                            </p>
+                        </div>
+
+                        <!-- Icon Info -->
+                        @foreach (IconInfoAboutMe item in Model.IconInfoAboutMe)
+                        {
+                            <div class="col-lg-3 col-sm-4">
+                                <div class="info-icon">
+                                    <i class="@item.IconInfo"></i>
+                                    <div class="desc-icon">
+                                        <h6>@item.TitInfo</h6>
+                                        <p>@item.SubTitInfo</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                        <div class="col-lg-3 col-sm-12 pt-50">
+                            <a href="#" class="btn-st">Download CV</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Interests Row Start -->
+        <div class="row mt-100">
+
+            <!-- Header Block -->
+            <div class="col-md-12">
+                <div class="header-box mb-50">
+                    <h3>@Model.SectionMyInterests.SectionName</h3>
+                </div>
+            </div>
+
+            <div class="col-lg-12 col-sm-12">
+                <div class="box-2">
+                    <div class="row">
+                        <!-- Interests Item -->
+                        @foreach (MyInterestsInterestsItem item in Model.MyInterestsInterestsItem)
+                        {
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="inter-icon">
+                                    <i class="@item.InterestsIcon"></i>
+                                    <div class="desc-inter">
+                                        <h6>@item.InterestsName</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Service Row Start -->
+        <div class="row mt-100">
+
+            <!-- Header Block -->
+            <div class="col-md-12">
+                <div class="header-box mb-50">
+                    <h3>@Model.SectionService.SectionName</h3>
+                </div>
+            </div>
+
+            <!-- Service Item -->
+            @foreach (ServiveServiceItem item in Model.ServiveServiceItem)
+            {
+                <div class="col-lg-6 col-sm-6">
+                    <div class="service box-1 mb-40">
+                        <i class="@item.ServiceIcon"></i>
+                        <h4>@item.ServiceName</h4>
+                        <p>@item.ServiceDescription</p>
+                    </div>
+                </div>
+            }
+
+        </div>
+
+        <!-- Testimonial Row Start -->
+        <div class="row testimonial mt-60">
+
+            <!-- Header Block -->
+            <div class="col-md-12">
+                <div class="header-box mb-50">
+                    <h3>@Model.SectionTestimonial.SectionName</h3>
+                </div>
+            </div>
+
+            <div class="owl-carousel owl-theme">
+
+                <!-- Testimonail Item -->
+                @foreach (TestimonailItem item in Model.TestimonailItem)
+                {
+                    <div class="testimonial-item">
+                        <div class="media">
+                            <img src="~/img/testimonials/@item.Image" alt="">
+                            <div class="content">
+                                <h4>@item.FullName</h4>
+                                <p>@item.Job</p>
+                            </div>
+
+                            <ul class="rating">
+                                @for (int i = 0; i < item.Rating; i++)
+                                {
+                                    <li><i class="far fa-star"></i></li>
+                                }
+                            </ul>
+                        </div>
+                        <div class="comment pt-30">
+                            <p>@item.Comment</p>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+
+        <!-- Price Row Start -->
+        <div class="row mt-100 mb-60">
+
+            <!-- Header Block -->
+            <div class="col-md-12">
+                <div class="header-box mb-90">
+                    <h3>@Model.SectionPrice.SectionName</h3>
+                </div>
+            </div>
+
+            <!-- Price Item -->
+            @foreach (var item in Model.PriceBox)
+            {
+                <div class="col-lg-4 col-sm-12">
+                    <div class="price box-1">
+                        <div class="head-price">
+                            <i class="@item.PriceBoxIcon"></i>
+                            <h4>@item.PriceBoxType</h4>
+                        </div>
+                        <div class="body-price">
+                            <div class="price-plan">
+                                <span class="currency">$</span>
+                                <span class="number">@item.Price</span>
+                                <span class="period">month</span>
+                            </div>
+                            <div class="list-price">
+                                @*<ul>
+                                        @foreach (PriceBoxSkills item2 in Model.PriceBoxSkills)
+                                        {
+                                            <li>@item2.PriceBoxskills</li>
+                                        }
+                                    </ul>*@
+                                <ul>
+                                    <li>Web Design</li>
+                                    <li>Web Development</li>
+                                    <li class="disable">Responsive Design</li>
+                                    <li class="disable">Game Development</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-price">
+                            <a href="#" class="btn-st">Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </section>
+</div>
+
+<!-- Resume Section -->
+<div class="page pt-resume" data-simplebar>
+    <section class="container">
+
+        <!-- Section Title -->
+        <div class="header-page mt-70 mob-mt">
+            <h2>@Model.SectionResume.SectionName</h2>
+            <span></span>
+        </div>
+
+        <!-- Experience & Education Row Start -->
+        <div class="row mt-100">
+
+            <!-- Experience Column Start -->
+            <div class="col-lg-6 col-sm-12">
+
+                <!-- Header Block -->
+                <div class="header-box mb-50">
+                    <h3>@Model.SectionResume.FirstSubSectionName</h3>
+                </div>
+
+                <div class="experience box-1">
+
+                    <!-- Experience Item -->
+                    @foreach (ResumeExperienceItem item in Model.ResumeExperienceItem)
+                    {
+                        <div class="item">
+                            <div class="main">
+                                <h4>@item.Title</h4>
+                                <p><i class="far fa-calendar-alt"></i>@item.Calendar | @item.Sec</p>
+                            </div>
+                            <p>@item.Description</p>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <!-- Education Column Start -->
+            <div class="col-lg-6 col-sm-12">
+
+                <!-- Header Block -->
+                <div class="header-box mb-50 mob-box-mt">
+                    <h3>@Model.SectionResume.SecondSubSectionName</h3>
+                </div>
+
+                <div class="experience box-2">
+
+                    <!-- Education Item -->
+                    @foreach (var item in Model.ResumeEducationItem)
+                    {
+                        <div class="item">
+                            <div class="main">
+                                <h4>@item.Title</h4>
+                                <p><i class="far fa-calendar-alt"></i>@item.Calendar | @item.Sec</p>
+                            </div>
+                            <p>@item.Description</p>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Skills Row Start -->
+        <div class="row mt-100">
+
+            <!-- Header Block -->
+            <div class="col-md-12">
+                <div class="header-box mb-50">
+                    <h3>@Model.SectionSkills.SectionName</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="box-1 skills">
+            <div class="row">
+                <div class="col-lg-6 col-sm-6">
+                    <!-- Skill Item -->
+                    @foreach (SkillsProgressBar item in Model.SkillsProgressBar)
+                    {
+                        <div class="skill-item">
+                            <h4 class="progress-title">@item.ProgressTitle</h4>
+                            <div class="progress">
+                                <div class="progress-bar" style="width:@item.ProgressValue%">
+                                    <div class="progress-value">@item.ProgressValue%</div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-lg-6 col-sm-6">
+                    <div class="row">
+
+                        <!-- Skill Item -->
+                        @foreach (SkillsChart item in Model.SkillsChart)
+                        {
+                            <div class="col-lg-6 col-sm-6">
+                                <div class="chart" data-percent="@item.ProgressValue" data-bar-color="#@item.BarColor"> @item.ProgressValue% <p>@item.ProgressTitle</p></div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Work Process Row Start -->
+        <div class="row mt-100">
+
+            <!-- Header Block -->
+            <div class="col-md-12">
+                <div class="header-box mb-50">
+                    <h3>@Model.SectionWorkProcess.SectionName</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="box-2 work-process mb-100">
+            <div class="row">
+                <div class="col-lg-4 col-sm-12 ltr">
+
+                    <!-- Working Process Item-->
+                    @foreach (WorkingProcessItemLeft item in Model.WorkingProcessItemLeft)
+                    {
+                        <div class="single-wp width-sm process-@item.Step">
+                            <p class="wp-step">@item.Step</p>
+                            <h4 class="wp-title">@item.Title</h4>
+                            <p>@item.Idea</p>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-lg-4 hidden-sm">
+
+                    <!-- Working Process Circle-->
+                    <div class="wp-circle">
+                        <h4>@Model.SectionWorkProcess.Circle</h4>
+                        <span class="dots top-l"></span>
+                        <span class="dots bottom-l"></span>
+                        <span class="dots top-r"></span>
+                        <span class="dots bottom-r"></span>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-sm-12 rtl">
+
+                    <!-- Working Process Item-->
+                    @foreach (WorkingProcessItemRight item in Model.WorkingProcessItemRight)
+                    {
+                        <div class="single-wp width-sm process-@item.Step">
+                            <p class="wp-step">@item.Step</p>
+                            <h4 class="wp-title">@item.Title</h4>
+                            <p>@item.Idea</p>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!-- Portfolio Section -->
+<div class="page pt-portfolio" data-simplebar>
+    <section class="container">
+
+        <!-- Section Title -->
+        <div class="header-page mt-70 mob-mt">
+            <h2>Portfolio</h2>
+            <span></span>
+        </div>
+
+        <!-- Portfolio Filter Row Start -->
+        <div class="row mt-100">
+            <div class="col-lg-12 col-sm-12 portfolio-filter">
+                <ul>
+                    <li class="active" data-filter="*">All</li>
+                    @foreach (var item in Model.PortfolioCategory)
+                    {
+                        <li data-filter=".@item.CategoryName" style="text-transform:capitalize">@item.CategoryName</li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <!-- Portfolio Item Row Start -->
+        <div class="row portfolio-items mt-100 mb-100">
+            @foreach (var item in Model.PortfolioItem)
+            {
+                if (item.ProjectVideoLink == null)
+                {
+                    <!-- Portfolio Item -->
+                    <div class="item col-lg-4 col-sm-6 @item.PortfolioCategory.CategoryName">
+                        <figure>
+                            <img alt="" src="~/img//portfolio/@item.Image">
+                            <figcaption>
+                                <h3>@item.ProjectName</h3>
+                                <p>@item.Tag</p><i class="fas fa-image"></i>
+                                <a class="image-link" href="~/img//portfolio/@item.Image"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                }
+                else
+                {
+                    <!-- Portfolio Item -->
+                    <div class="item col-lg-4 col-sm-6 @item.PortfolioCategory.CategoryName">
+                        <figure>
+                            <img alt="" src="~/img//portfolio/@item.Image">
+                            <figcaption>
+                                <h3>@item.ProjectName</h3>
+                                <p>@item.Tag</p><i class="fas fa-video"></i>
+                                <a class="video-link" href="@item.ProjectVideoLink"></a>
+                            </figcaption>
+                        </figure>
+                    </div>
+                }
+
+            }
+
+        </div>
+    </section>
+</div>
+
+<!-- Blog Section -->
+<div class="page pt-blog" data-simplebar>
+    <section class="container">
+
+        <!-- Section Title -->
+        <div class="header-page mt-70 mob-mt">
+            <h2>Blog</h2>
+            <span></span>
+        </div>
+
+        <!-- Blog Row Start -->
+        <div class="row blog-masonry mt-100 mb-50">
+            <!-- Blog Item -->
+            @foreach (var item in Model.BlogItem)
+            {
+                <div class="col-lg-4 col-sm-6">
+                    <div class="blog-item">
+                        <div class="thumbnail">
+                            <a asp-controller="SingleBlog" asp-action="Index" asp-route-id="@item.Id"><img alt="" src="~/img/blog/@item.Image"></a>
+                        </div>
+                        <h4><a asp-controller="SingleBlog" asp-action="Index" asp-route-id="@item.Id">@item.Title</a></h4>
+                        <ul>
+                            <li><a href="#">@item.ShareDate</a></li>
+                            <li><a href="#">@item.Tag</a></li>
+                        </ul>
+                        <p>@item.SubTitle</p>
+                        <div class="blog-btn">
+                            <a asp-controller="SingleBlog" asp-action="Index" asp-route-id="@item.Id" class="btn-st">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </section>
+</div>
+
+<!-- Contact Section -->
+<div class="page pt-contact" data-simplebar>
+    <section class="container">
+
+        <!-- Section Title -->
+        <div class="header-page mt-70 mob-mt">
+            <h2>Contact</h2>
+            <span></span>
+        </div>
+
+        <!-- Form Start -->
+        <div class="row mt-100">
+            <div class="col-lg-12 col-sm-12">
+                <div class="contact-form ">
+                    <form method="post" class="box-1 contact-valid" id="contact-form">
+                        <div class="row">
+                            <div class="col-lg-6 col-sm-12">
+                                <input type="text" name="name" id="name" class="form-control" placeholder="Name *">
+                            </div>
+                            <div class="col-lg-6 col-sm-12">
+                                <input type="email" name="email" id="email" class="form-control" placeholder="Email *">
+                            </div>
+                            <div class="col-lg-12 col-sm-12">
+                                <textarea class="form-control" name="note" id="note" placeholder="Your Message"></textarea>
+                            </div>
+                            <div class="col-lg-12 col-sm-12 text-center">
+                                <button type="submit" class="btn-st">Send Message</button>
+                                <div id="loader">
+                                    <i class="fas fa-sync"></i>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-sm-12">
+                                <div class="error-messages">
+                                    <div id="success">
+                                        <i class="far fa-check-circle"></i>Thank you, your message has been sent.
+                                    </div>
+                                    <div id="error">
+                                        <i class="far fa-times-circle"></i>Error occurred while sending email. Please try again later.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Contact Info -->
+        <div class="box-2 contact-info">
+            <div class="row">
+                <div class="col-lg-4 col-sm-12 info">
+                    <i class="fas fa-paper-plane"></i>
+                    <p>example@example.com</p>
+                    <span>Email</span>
+                </div>
+                <div class="col-lg-4 col-sm-12 info">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <p>123 Lorem Ipsum, USA</p>
+                    <span>Addres</span>
+                </div>
+                <div class="col-lg-4 col-sm-12 info">
+                    <i class="fas fa-phone"></i>
+                    <p>(+1) 123 456 7890</p>
+                    <span>Phone</span>
+                </div>
+            </div>
+        </div>
+
+        <!--Google Map Start-->
+        <div class="google-map box-1 mt-100 mb-100">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div id="map" data-latitude="40.712775" data-longitude="-74.005973" data-zoom="14"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div> 
